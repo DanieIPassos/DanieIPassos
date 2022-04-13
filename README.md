@@ -28,6 +28,11 @@
     </a>
 </div>
 </p>
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/SentlySS"><img alt="Sently's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SentlySS&custom_title=SentlySS's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
