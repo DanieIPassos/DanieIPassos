@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning Hacking
 - 📫 How to reach me: Linkedin or email
-- ⚡ Fun fact: I'm like the hacking world, so i study it a lot.
+- ⚡ Fun fact: I like the hacking, violin and games.
 
 <details>
 <summary>
