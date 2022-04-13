@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SentlySS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentlyss)](https://github.com/sentlyss/github-readme-stats)
+[![SentlySS's GitHub stats](https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=onedark)](https://github.com/sentlyss/github-readme-stats)
 
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
