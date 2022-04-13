@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=sentlyss&style=flat-square&color=blue" alt="View count"/></div>
 
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
