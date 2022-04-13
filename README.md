@@ -2,7 +2,7 @@
 
 <div id="status">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentlyss&layout=compact&theme=tokyonight&langs_count=10" />
