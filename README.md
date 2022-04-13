@@ -3,6 +3,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentlyss&layout=compact&theme=tokyonight&langs_count=10" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+
+<hr>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=sentlyss&theme=juicyfresh&no-bg=true" />
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
