@@ -8,7 +8,7 @@
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</i></b></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=sentlyss&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=sentlyss&theme=tokyonight&no-bg=true" />
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
