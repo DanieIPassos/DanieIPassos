@@ -49,20 +49,6 @@ Languages and Tools🛠:
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;<i><b>Git profile Trophies</i></b></p><br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/SentlySS"><img alt="Sently's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SentlySS&custom_title=SentlySS's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
