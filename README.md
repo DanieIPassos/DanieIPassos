@@ -10,7 +10,7 @@
 </div>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sentlyss&style=flat-square&color=blue" alt="View count"/></div>
 
-- 🔭 I’m currently working on Vue Front-End Development at Avonale
+- 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning Hacking
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: I like hacking, violin and games.
