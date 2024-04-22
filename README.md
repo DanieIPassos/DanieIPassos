@@ -42,8 +42,8 @@ Languages and Tools🛠:
 
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentlyss&layout=compact&theme=tokyonight&langs_count=10" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sentlyss&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieIPassos&layout=compact&theme=tokyonight&langs_count=10" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DanieIPassos&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <!--
