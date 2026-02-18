@@ -40,12 +40,6 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
 
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieIPassos&layout=compact&theme=tokyonight&langs_count=10" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DanieIPassos&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
 <!--
 **SentlySS/SentlySS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
